@@ -17,3 +17,8 @@
 .faq-header {
     width: 80%;
 }
+
+.company-img img {
+    width: 10%;
+    height: auto;
+}
