@@ -5,6 +5,15 @@
 
 }
 
+.course-section {
+    border: 2px solid red;
+    height: 150%;
+}
+
 .course-header {
     width: 40%;
+}
+
+.faq-header {
+    width: 80%;
 }
